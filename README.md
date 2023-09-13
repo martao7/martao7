@@ -1,7 +1,18 @@
-### Hi there 👋
+###  :computer: ✨ About me ✨ :woman_technologist: 
+
+
 
 <!--
-**martao7/martao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 
+https://www.codewars.com/users/martao7/badges/large
+
+<div class="code-badge freecodecamp"></div>
+
+
+it's my ✨ _special_ ✨ repository :computer:
+
+**martao7/martao7** it's my ✨ _special_ ✨ repository :computer: .
 
 Here are some ideas to get you started:
 
