@@ -1,8 +1,8 @@
 # 💫 About Me:woman_technologist::
-Full Stack Web Developer && Software Tester<br>
+💻 Full Stack Web Developer && Software Tester :mag_right: <br>
 
-:heart: JavaScript
-:book: Currently Learning: MERN Stack
+:heart: JavaScript <br>
+:closed_book: Currently Learning: MERN Stack <br>
 
 
 ---
