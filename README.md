@@ -1,7 +1,14 @@
 # 💫 About Me:woman_technologist::
-I'm Marta -> Full Stack Web Developer && Software Tester<br>
+Full Stack Web Developer && Software Tester<br>
+
+:heart: JavaScript
+:book: Currently Learning: MERN Stack
 
 
+---
+
+
+# :bulb: Codewars:
 ![image](https://github.com/martao7/martao7/assets/61636596/1d11cddc-3d17-47e2-aee2-bc61a89ffcd6)
 
 
@@ -13,14 +20,10 @@ I'm Marta -> Full Stack Web Developer && Software Tester<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=martao7&theme=graywhite&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martao7&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=martao7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=martao7&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
@@ -33,9 +36,17 @@ https://www.codewars.com/users/martao7/badges/large
 
 it's my ✨ _special_ ✨ repository :computer:
 
+[![](https://visitcount.itsvg.in/api?id=martao7&icon=0&color=12)](https://visitcount.itsvg.in)
+
 **martao7/martao7** it's my ✨ _special_ ✨ repository :computer: .
 
 Here are some ideas to get you started:
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=martao7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ###  :computer: ✨ About me ✨ :woman_technologist:  
 
