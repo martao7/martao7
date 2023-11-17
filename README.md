@@ -9,7 +9,9 @@
 
 
 # :bulb: Codewars:
-![image](https://github.com/martao7/martao7/assets/61636596/1d11cddc-3d17-47e2-aee2-bc61a89ffcd6)
+
+
+![image](https://www.codewars.com/users/martao7/badges/large)
 
 
 
@@ -35,6 +37,8 @@
 https://www.codewars.com/users/martao7/badges/large
 
 <div class="code-badge freecodecamp"></div>
+
+![image](https://github.com/martao7/martao7/assets/61636596/1d11cddc-3d17-47e2-aee2-bc61a89ffcd6)
 
 
 it's my ✨ _special_ ✨ repository :computer:
