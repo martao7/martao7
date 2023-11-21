@@ -1,4 +1,4 @@
-# 💫 About Me:woman_technologist::
+# 💫 About Me 👩🏻‍💻: 
 💻 Full Stack Web Developer && Software Tester :mag_right: <br>
 
 :heart: JavaScript <br>
