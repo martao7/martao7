@@ -8,7 +8,7 @@
 ---
 
 
-# :bulb: Codewars:
+# 💡 Codewars:
 
 
 ![image](https://www.codewars.com/users/martao7/badges/large)
